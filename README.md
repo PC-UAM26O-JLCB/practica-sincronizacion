@@ -8,6 +8,12 @@ Los métodos a probar son:
 * Semáforo
 * Barrera
 
+## Compilación
+```java
+javac nombreArchivo.java
+java nombreArchivo
+```
+
 ## Desarrollo
 ### Lock
 El uso básico del candado se encarga de bloquear a los hilos para que no puedan entrar a una sección crítica si existe otro hilo en la misma  sección.\
